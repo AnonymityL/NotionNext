@@ -1,0 +1,8 @@
+{
+  "name": "notion-next",
+  "installCommand": "npm install",
+  "assets": {
+    "directory": "./out",
+    "notFoundStrategy": "404Page"
+  }
+}
